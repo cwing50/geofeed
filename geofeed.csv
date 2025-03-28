@@ -1,3 +1,2 @@
 # prefix,country_code,region_code,city,postal
-2a11:29c0:3e20::/48,US,US-IL,Chicago,
-2a11:29c0:3e21::/48,US,US-IL,Chicago,
+2a05:dfc3:fb00::/40,US,US-IL,Chicago,
